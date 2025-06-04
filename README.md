@@ -21,13 +21,7 @@ To get started with the project, follow these steps:
     git clone https://github.com/thaonvhfc/openhands_store_warehouse.git
     ```
 
-2.  Install the dependencies:
-
-    ```bash
-    npm install
-    ```
-
-3.  Run the application:
+2.  Run the application:\n\n    To run the application, execute the `run.sh` script:\n\n    ```bash\n    ./run.sh\n    ```
 
     ```bash
     npm start
