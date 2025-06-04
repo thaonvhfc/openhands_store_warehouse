@@ -11,19 +11,22 @@ Welcome to the OpenHands Store Warehouse project! This project is designed to ma
 
 ## Getting Started
 
-The main code is now located in the `source/code.py` file.
+The main code is now located in the [`source/code.py`](./source/code.py) file.
 
 To get started with the project, follow these steps:
 
 1.  Clone the repository:
 
-    ```bash
+    ```bash\n#!/bin/bash
     git clone https://github.com/thaonvhfc/openhands_store_warehouse.git
     ```
 
-2.  Run the application:\n\n    To run the application, execute the `run.sh` script:\n\n    ```bash\n    ./run.sh\n    ```
+2.  Run the application:\n\n    To run the application, execute the `run.sh` script:\n\n    ```bash\n#!/bin/bash
+    #!/bin/bash
+    ./run.sh
+    ```
 
-    ```bash
+    ```bash\n#!/bin/bash
     npm start
     ```
 
