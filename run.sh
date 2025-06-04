@@ -1,0 +1,1 @@
+#!/bin/bash\n\npython3 source/code.py
