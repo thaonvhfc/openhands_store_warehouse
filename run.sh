@@ -1,1 +1,3 @@
-#!/bin/bash\n\npython3 source/code.py
+#!/bin/bash
+
+python3 source/code.py
